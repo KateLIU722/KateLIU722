@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KateLIU722
-- 👀 I’m interested in search engine
-- 🌱 I’m currently learning how to use GitHub
-- 💞️ I’m looking to collaborate on search engine
+- 👀 I’m interested in Big Data technology.
+- 🌱 I’m currently learning how to use GitHub.
+- 💞️ I’m looking to collaborate on big data technology.
 - 📫 You can leave messages for me here!
 - 😄 Pronouns: Kate
 - ⚡ Fun fact: I am a patent examiner in search engine feild.
